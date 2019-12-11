@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_pizza">
+
+    <fragment
+        android:id="@+id/nav_pizza"
+        android:name="ru.hawoline.testtask.ui.pizza.PizzaFragment"
+        android:label="@string/menu_pizza"
+        tools:layout="@layout/fragment_pizza" />
+
+    <fragment
+        android:id="@+id/nav_combo"
+        android:name="ru.hawoline.testtask.ui.combo.ComboFragment"
+        android:label="@string/menu_combo"
+        tools:layout="@layout/fragment_combo" />
+
+    <fragment
+        android:id="@+id/nav_pasta"
+        android:name="ru.hawoline.testtask.ui.pasta.PastaFragment"
+        android:label="@string/menu_pasta"
+        tools:layout="@layout/fragment_pasta" />
+
+    <fragment
+        android:id="@+id/nav_burgers_and_rolls"
+        android:name="ru.hawoline.testtask.ui.burgersandrolls.BurgersAndRollsFragment"
+        android:label="@string/menu_burgers_and_rolls"
+        tools:layout="@layout/fragment_burgers_and_rolls" />
+
+    <fragment
+        android:id="@+id/nav_snacks"
+        android:name="ru.hawoline.testtask.ui.snacks.SnacksFragment"
+        android:label="@string/menu_snacks"
+        tools:layout="@layout/fragment_snacks" />
+
+    <fragment
+        android:id="@+id/nav_desserts"
+        android:name="ru.hawoline.testtask.ui.dessert.DessertFragment"
+        android:label="@string/menu_desserts"
+        tools:layout="@layout/fragment_desserts" />
+
+    <fragment
+        android:id="@+id/nav_drinks"
+        android:name="ru.hawoline.testtask.ui.pizza.PizzaFragment"
+        android:label="@string/menu_drinks"
+        tools:layout="@layout/fragment_burgers_and_rolls" />
+</navigation>

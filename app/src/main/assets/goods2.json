@@ -1,0 +1,1334 @@
+{
+  "groups": [
+    {
+      "gr_name": "\u041f\u0438\u0446\u0446\u0430",
+      "products": [
+        {
+          "id": 106,
+          "name": "\u041f\u043e\u043d\u0434\u0437\u0430",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/106\/resized-pondza.jpeg",
+          "desc": "\u0421\u0432\u0438\u043d\u0438\u043d\u0430,\u0432\u0435\u0442\u0447\u0438\u043d\u0430,\u0433\u0440\u0438\u0431\u044b,\u0442\u043e\u043c\u0430\u0442\u044b,\u043c\u0430\u0441\u043b\u0438\u043d\u044b,\u0441\u044b\u0440,\u0441\u043e\u0443\u0441 \u0447\u0435\u0441\u043d\u043e\u0447\u043d\u044b\u0439",
+          "label_text": "\u041d\u043e\u0432\u0438\u043d\u043a\u0430",
+          "label_color": "db1f1f",
+          "size_price": [
+            {
+              "article": "po25",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "po30",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "po35",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "po40",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 93,
+          "name": "\u0427\u0435\u0441\u043d\u043e\u0447\u043d\u044b\u0439 \u0446\u044b\u043f\u043b\u0435\u043d\u043e\u043a",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/93\/12-pizza.jpg",
+          "desc": "\u0427\u0435\u0441\u043d\u043e\u0447\u043d\u044b\u0439 \u0441\u043e\u0443\u0441, \u0446\u044b\u043f\u043b\u0435\u043d\u043e\u043a, \u0448\u0430\u043c\u043f\u0438\u043d\u044c\u043e\u043d\u044b, \u043f\u043e\u043c\u0438\u0434\u043e\u0440\u044b \u0438 \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430. ",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 92,
+          "name": "\u041c\u044f\u0441\u043d\u0430\u044f",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/92\/2-pizza.jpg",
+          "desc": "\u0426\u044b\u043f\u043b\u0435\u043d\u043e\u043a, \u0432\u0435\u0442\u0447\u0438\u043d\u0430, \u043f\u0435\u043f\u043f\u0435\u0440\u043e\u043d\u0438, \u0442\u043e\u043c\u0430\u0442\u044b, \u043f\u0438\u0446\u0446\u0430-\u0441\u043e\u0443\u0441, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430.",
+          "label_text": "\u0421\u042b\u0422\u041d\u041e",
+          "label_color": "ffde00",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "390"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "530"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "690"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "990"
+            }
+          ]
+        },
+        {
+          "id": 91,
+          "name": "\u0410\u043c\u043e \u041f\u0438\u0446\u0446\u0430",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/91\/3-pizza.jpg",
+          "desc": "\u041f\u0438\u0446\u0446\u0430 \u0441\u043e\u0443\u0441, \u043a\u043e\u043b\u0431\u0430\u0441\u043a\u0438 \u043f\u0435\u043f\u043f\u0435\u0440\u043e\u043d\u0438, \u0432\u0435\u0442\u0447\u0438\u043d\u0430, \u0441\u043b\u0430\u0434\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0446, \u0448\u0430\u043c\u043f\u0438\u043d\u044c\u043e\u043d\u044b, \u0442\u043e\u043c\u0430\u0442\u044b, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430.",
+          "label_text": "\u0421\u042b\u0422\u041d\u041e",
+          "label_color": "ffde00",
+          "size_price": [
+            {
+              "article": "1",
+              "size": "25 \u0441\u043c",
+              "price": "390"
+            },
+            {
+              "article": "2",
+              "size": "30 \u0441\u043c",
+              "price": "530"
+            },
+            {
+              "article": "3",
+              "size": "35 \u0441\u043c",
+              "price": "690"
+            },
+            {
+              "article": "4",
+              "size": "40 \u0441\u043c",
+              "price": "990"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "name": "\u0410\u041c\u041e \u0420\u043e\u043b\u043b",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/104\/amo-roll-1.png",
+          "desc": "\u0424\u0438\u0440\u043c\u0435\u043d\u043d\u044b\u0439 \u0440\u043e\u043b\u043b \u0432 \u043f\u0448\u0435\u043d\u0438\u0447\u043d\u043e\u0439 \u043b\u0435\u043f\u0435\u0448\u043a\u0435 \u0437\u0430\u043f\u0435\u0447\u0435\u043d\u043d\u044b\u0439 \u0432 \u043f\u0435\u0447\u0438 \u0441 \u0442\u043e\u043c\u0430\u0442\u0430\u043c\u0438, \u0446\u044b\u043f\u043b\u0435\u043d\u043a\u043e\u043c\/\u043f\u0435\u043f\u043f\u0435\u0440\u043e\u043d\u0438, \u0431\u0435\u043a\u043e\u043d\u043e\u043c \u0438 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u043e\u0439.",
+          "label_text": "\u0425\u0418\u0422",
+          "label_color": "e95e0d",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 190
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "name": "\u041f\u0438\u043a\u0430\u043d\u0442\u0435",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/105\/resized-picante.jpeg",
+          "desc": "\u0412\u0435\u0442\u0447\u0438\u043d\u0430,\u0433\u0440\u0438\u0431\u044b,\u043a\u043e\u043b\u0431\u0430\u0441\u043a\u0438 \u043f\u0435\u043f\u0435\u0440\u043e\u043d\u0438,\u043f\u0435\u0440\u0435\u0446 \u0431\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0439,\u043f\u0435\u0440\u0447\u0438\u043a\u0438 \u0445\u0430\u043b\u0430\u043f\u0435\u043d\u044c\u043e,\u043e\u0440\u0435\u0433\u0430\u043d\u043e,\u0441\u044b\u0440,\u0441\u043e\u0443\u0441",
+          "label_text": "\u041d\u043e\u0432\u0438\u043d\u043a\u0430",
+          "label_color": "db1f1f",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "name": "\u0422\u0440\u043e\u043f\u0438\u043a\u0430\u043d\u043a\u0430",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/101\/resized-tropikanka.png",
+          "desc": "\u041a\u0443\u0440\u0438\u0446\u0430, \u0430\u043d\u0430\u043d\u0430\u0441,\u043f\u0435\u0440\u0447\u0438\u043a\u0438 \u0445\u0430\u043b\u0430\u043f\u0435\u043d\u044c\u043e,\u0441\u044b\u0440,\u0441\u043b\u0438\u0432\u043a\u0438,\u043e\u0440\u0435\u0433\u0430\u043d\u043e",
+          "label_text": "\u041d\u043e\u0432\u0438\u043d\u043a\u0430",
+          "label_color": "db1f1f",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "\u0422\u0443\u043d\u0430",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/102\/tpizza5.jpg",
+          "desc": " \u041f\u0438\u0446\u0446\u0430 \u0441\u043e\u0443\u0441, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430, \u0442\u0443\u043d\u0435\u0446, \u043f\u043e\u043c\u0438\u0434\u043e\u0440\u044b, \u043c\u0430\u0441\u043b\u0438\u043d\u044b. ",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "name": "\u041f\u0438\u0446\u0446\u0430 \"\u0426\u0435\u0437\u0430\u0440\u044c\"",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/103\/resized-cezar.jpeg",
+          "desc": "\u041a\u0443\u0440\u0438\u0446\u0430, \u043c\u0430\u0441\u043b\u0438\u043d\u044b,\u0442\u043e\u043c\u0430\u0442\u044b,\u0441\u044b\u0440,\u0447\u0435\u0441\u043d. \u0441\u043e\u0443\u0441,\u043b\u0438\u0441\u0442 \u0441\u0430\u043b\u0430\u0442\u0430",
+          "label_text": "\u041d\u043e\u0432\u0438\u043d\u043a\u0430",
+          "label_color": "db1f1f",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 90,
+          "name": "\u041c\u043e\u0440\u0441\u043a\u0430\u044f",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/90\/15-pizza.jpg",
+          "desc": "\u041f\u0438\u0446\u0446\u0430 \u0441\u043e\u0443\u0441, \u043a\u0440\u0435\u0432\u0435\u0442\u043a\u0438, \u0441\u043b\u0430\u0434\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0446, \u043c\u0430\u0441\u043b\u0438\u043d\u044b, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "390"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "530"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "690"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "990"
+            }
+          ]
+        },
+        {
+          "id": 89,
+          "name": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/89\/1-pizza.jpg",
+          "desc": "\u041f\u0438\u0446\u0446\u0430 \u0441\u043e\u0443\u0441, \u043a\u043e\u043b\u0431\u0430\u0441\u043a\u0438 \u043f\u0435\u043f\u043f\u0435\u0440\u043e\u043d\u0438, \u0448\u0430\u043c\u043f\u0438\u043d\u044c\u043e\u043d\u044b, \u043c\u0430\u0441\u043b\u0438\u043d\u044b, \u043e\u0440\u0435\u0433\u0430\u043d\u043e, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 86,
+          "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0421\u0435\u0437\u043e\u043d\u0430",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/86\/16-pizza.jpg",
+          "desc": "\u0426\u044b\u043f\u043b\u0435\u043d\u043e\u043a, \u043f\u0435\u043f\u043f\u0435\u0440\u043e\u043d\u0438, \u0433\u0440\u0438\u0431\u044b,\u0432\u0435\u0442\u0447\u0438\u043d\u0430, \u043f\u0438\u0446\u0446\u0430-\u0441\u043e\u0443\u0441, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 87,
+          "name": "4 \u0441\u044b\u0440\u0430",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/87\/8-pizza.jpg",
+          "desc": "\u0421\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430, \u0421\u044b\u0440 \u0414\u043e\u0440\u0431\u043b\u044e, \u0421\u044b\u0440 \u041f\u0430\u0440\u043c\u0435\u0437\u0430\u043d, \u0421\u044b\u0440 \u0413\u0430\u0443\u0434\u0430, \u043f\u0438\u0446\u0446\u0430-\u0441\u043e\u0443\u0441, \u0441\u043b\u0438\u0432\u043a\u0438, \u0433\u0440\u0435\u0446\u043a\u0438\u0439 \u043e\u0440\u0435\u0445.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "name": "\u041a\u0430\u0440\u0431\u043e\u043d\u0430\u0440\u0430",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/85\/11-pizza.jpg",
+          "desc": "\u0411\u0435\u043a\u043e\u043d, \u0421\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430 \u0438 \u041f\u0430\u0440\u043c\u0435\u0437\u0430\u043d, \u0441\u043b\u0438\u0432\u043a\u0438, \u043f\u0438\u0446\u0446\u0430-\u0441\u043e\u0443\u0441",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 94,
+          "name": "\u0410\u0441\u0441\u043e\u0440\u0442\u0438",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/94\/14-pizza.jpg",
+          "desc": "\u0427\u0435\u0441\u043d\u043e\u0447\u043d\u044b\u0439 \u0441\u043e\u0443\u0441, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430, \u043a\u0443\u0440\u0438\u0446\u0430, \u0432\u0435\u0442\u0447\u0438\u043d\u0430, \u0433\u0440\u0438\u0431\u044b.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 95,
+          "name": "\u0411\u0430\u0440\u0431\u0435\u043a\u044e",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/95\/9-pizza.jpg",
+          "desc": "\u041f\u0438\u0446\u0446\u0430 \u0441\u043e\u0443\u0441, \u0446\u044b\u043f\u043b\u0451\u043d\u043e\u043a, \u0431\u0435\u043a\u043e\u043d, \u0440\u0435\u043f\u0447\u0430\u0442\u044b\u0439 \u043b\u0443\u043a, \u0441\u043e\u0443\u0441 \u0431\u0430\u0440\u0431\u0435\u043a\u044e, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 96,
+          "name": "\u041a\u0440\u0438\u043c\u0438 \u0427\u0438\u043a\u0435\u043d",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/96\/crimchiken.png",
+          "desc": "\u0421\u043b\u0438\u0432\u043e\u0447\u043d\u044b\u0439 \u0441\u043e\u0443\u0441 \"\u0416\u0443\u043b\u044c\u0435\u043d\", \u0444\u0438\u043b\u0435 \u043a\u0443\u0440\u0438\u043d\u044b\u0445 \u0433\u0440\u0443\u0434\u043e\u043a \u0441 \u0433\u0440\u0438\u0431\u0430\u043c\u0438, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430, \u0441\u044b\u0440 \u043f\u0430\u0440\u043c\u0435\u0437\u0430\u043d",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "name": "\u0414\u0436\u0443\u043b\u044c\u0435\u0442\u0442\u0430",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/97\/jlul.png",
+          "desc": " \u0434\u0432\u043e\u0439\u043d\u0430\u044f \u043f\u043e\u0440\u0446\u0438\u044f \u0448\u0430\u043c\u043f\u0438\u043d\u044c\u043e\u043d\u043e\u0432, \u0441\u043b\u0438\u0432\u043e\u0447\u043d\u044b\u0439 \u0441\u043e\u0443\u0441, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430, \u0443\u043a\u0440\u043e\u043f.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "290"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "430"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "590"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "840"
+            }
+          ]
+        },
+        {
+          "id": 98,
+          "name": "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d\u043d\u0441\u043a\u0430\u044f",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/98\/chilli-pizza.png",
+          "desc": "\u0424\u0430\u0440\u0448 \u0433\u043e\u0432\u044f\u0436\u0438\u0439, \u043f\u0435\u0440\u0435\u0446 \u0431\u043e\u043b\u0433\u0430\u0440. \u043b\u0443\u043a, \u0442\u043e\u043c\u0430\u0442\u044b, \u0441\u043f\u0435\u0446\u0438\u0438, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "495"
+            }
+          ]
+        },
+        {
+          "id": 99,
+          "name": "\u041a\u0430\u043b\u044c\u0446\u043e\u043d\u0435",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/99\/calzone-1.png",
+          "desc": "\u0417\u0430\u043a\u0440\u044b\u0442\u044b\u0439 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u043f\u0438\u0446\u0446\u0430-\u043f\u0438\u0440\u043e\u0433, \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u0432 \u0432\u0438\u0434\u0435 \u043f\u043e\u043b\u0443\u043c\u0435\u0441\u044f\u0446\u0430, \u0447\u0442\u043e \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0432\u0441\u0435 \u0430\u0440\u043e\u043c\u0430\u0442\u044b \u043d\u0430\u0447\u0438\u043d\u043a\u0438 \u0432\u043d\u0443\u0442\u0440\u0438.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "\u041e\u0432\u043e\u0449\u043d\u043e\u0439 ",
+              "price": "290"
+            },
+            {
+              "article": "",
+              "size": "\u041c\u044f\u0441\u043d\u043e\u0439 ",
+              "price": "290"
+            },
+            {
+              "article": "",
+              "size": "\u041a\u0443\u0440\u0438\u043d\u044b\u0439 ",
+              "price": "290"
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "name": "\u0421\u0430\u043c\u0431\u0440\u0435\u0440\u043e",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/100\/sambrero.png",
+          "desc": "\u041c\u0438\u043a\u0441 \u0438\u0437 \u043e\u0431\u0436\u0430\u0440\u0435\u043d\u043d\u044b\u0445 \u043e\u0432\u043e\u0449\u0435\u0439 \u0438 \u0446\u044b\u043f\u043b\u0435\u043d\u043a\u0430 \u043f\u043e\u043a\u0440\u044b\u0442\u044b\u0435 \u043f\u0448\u0435\u043d\u0438\u0447\u043d\u043e\u0439 \u043b\u0435\u043f\u0435\u0448\u043a\u043e\u0439.",
+          "label_text": "\u042d\u041a\u0421\u041a\u041b\u042e\u0417\u0418\u0412",
+          "label_color": "ee580d",
+          "size_price": [
+            {
+              "article": "",
+              "size": "\u041a\u0443\u0440\u0438\u043d\u0430\u044f ",
+              "price": "590"
+            },
+            {
+              "article": "",
+              "size": "\u041e\u0432\u043e\u0449\u043d\u0430\u044f ",
+              "price": "590"
+            },
+            {
+              "article": "",
+              "size": "\u041f\u0435\u043f\u043f\u0435\u0440\u043e\u043d\u0438 ",
+              "price": "590"
+            }
+          ]
+        },
+        {
+          "id": 84,
+          "name": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/84\/6-pizza.jpg",
+          "desc": "\u041f\u0435\u0440\u0447\u0438\u043a\u0438 \u0445\u0430\u043b\u0430\u043f\u0435\u043d\u044c\u043e, \u0446\u044b\u043f\u043b\u0451\u043d\u043e\u043a, \u0448\u0430\u043c\u043f\u0438\u043d\u044c\u043e\u043d\u044b, \u0441\u043b\u0430\u0434\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0446, \u0442\u043e\u043c\u0430\u0442\u044b, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430, \u043f\u0438\u0446\u0446\u0430-\u0441\u043e\u0443\u0441, ",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 79,
+          "name": "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/79\/13-pizza.jpg",
+          "desc": "\u0422\u043e\u043c\u0430\u0442\u044b, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430, \u043f\u0438\u0446\u0446\u0430-\u0441\u043e\u0443\u0441.",
+          "label_text": "\u0421\u0443\u043f\u0435\u0440 \u0446\u0435\u043d\u0430",
+          "label_color": "f61616",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "290"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "430"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "590"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "840"
+            }
+          ]
+        },
+        {
+          "id": 80,
+          "name": "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/80\/7-pizza.jpg",
+          "desc": "\u0412\u0435\u0442\u0447\u0438\u043d\u0430, \u0433\u0440\u0438\u0431\u044b, \u043f\u0438\u0446\u0446\u0430-\u0441\u043e\u0443\u0441, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430",
+          "label_text": "\u0421\u0443\u043f\u0435\u0440 \u0446\u0435\u043d\u0430",
+          "label_color": "f61616",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "290"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "430"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "590"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "840"
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "name": "\u0413\u0430\u0432\u0430\u0439\u0441\u043a\u0430\u044f",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/88\/10-pizza.jpg",
+          "desc": "\u0410\u043d\u0430\u043d\u0430\u0441\u044b, \u0432\u0435\u0442\u0447\u0438\u043d\u0430, \u0441\u043b\u0438\u0432\u043a\u0438, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 81,
+          "name": "\u041f\u0435\u043f\u043f\u0435\u0440\u043e\u043d\u0438",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/81\/4-pizza.jpg",
+          "desc": "\u041a\u043e\u043b\u0431\u0430\u0441\u043a\u0438 \u041f\u0435\u043f\u043f\u0435\u0440\u043e\u043d\u0438, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430, \u043f\u0438\u0446\u0446\u0430-\u0441\u043e\u0443\u0441",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "name": "\u0412\u0435\u0433\u0435\u0442\u0430\u0440\u0438\u0430\u043d\u0441\u043a\u0430\u044f",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/82\/13-pizza.jpg",
+          "desc": "\u0422\u043e\u043c\u0430\u0442\u044b, \u0433\u0440\u0438\u0431\u044b, \u043f\u0435\u0440\u0435\u0446 \u0431\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0439, \u043f\u0438\u0446\u0446\u0430-\u0441\u043e\u0443\u0441, \u0441\u044b\u0440 \u0444\u0435\u0442\u0430, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430, \u043c\u0430\u0441\u043b\u0438\u043d\u044b",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 83,
+          "name": "\u0413\u0440\u0438\u0431\u043d\u0430\u044f",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/83\/7-pizza.jpg",
+          "desc": "\u0428\u0430\u043c\u043f\u0438\u043d\u044c\u043e\u043d\u044b, \u0432\u0435\u0442\u0447\u0438\u043d\u0430, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430, \u0441\u043e\u0443\u0441 \u0440\u0430\u043d\u0447. ",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "370"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "640"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "890"
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "name": "\u041a\u0430\u043b\u0430\u0431\u0440\u0438\u0439\u0441\u043a\u0430\u044f",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/107\/resized-calabriskay.jpeg",
+          "desc": "\u0412\u0435\u0442\u0447\u0438\u043d\u0430,\u0433\u0440\u0438\u0431\u044b,\u0442\u043e\u043c\u0430\u0442\u044b,\u043b\u0443\u043a, \u0441\u044b\u0440,\u0441\u043e\u0443\u0441 \u0442\u043e\u043c\u0430\u0442\u043d\u044b\u0439",
+          "label_text": "\u041d\u043e\u0432\u0438\u043d\u043a\u0430",
+          "label_color": "db1f1f",
+          "size_price": [
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "495"
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "name": "\u0428\u0430\u0448\u043b\u044b\u0447\u043d\u0430\u044f",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/108\/1-119-c7a0e8b4afd54218912f980e5c9d1dfe.jpg",
+          "desc": "\u041f\u0438\u0446\u0446\u0430 \u0441\u043e\u0443\u0441, \u0433\u043e\u0432\u044f\u0434\u0438\u043d\u0430, \u0448\u0430\u043c\u043f\u0438\u043d\u044c\u043e\u043d\u044b, \u0442\u043e\u043c\u0430\u0442\u044b, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "25 \u0441\u043c",
+              "price": "390"
+            },
+            {
+              "article": "",
+              "size": "30 \u0441\u043c",
+              "price": "530"
+            },
+            {
+              "article": "",
+              "size": "35 \u0441\u043c",
+              "price": "690"
+            },
+            {
+              "article": "",
+              "size": "40 \u0441\u043c",
+              "price": "990"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gr_name": "\u041a\u043e\u043c\u0431\u043e",
+      "products": [
+        {
+          "id": 76,
+          "name": "\u21161",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/76\/set1.png",
+          "desc": "\u041f\u0438\u0446\u0446\u0430 25\u0441\u043c \" \u041d\u044c\u044e-\u0419\u043e\u0440\u043a\" , \u0421\u043e\u043a \"\u0414\u043e\u0431\u0440\u044b\u0439\" 1\u043b, \u043a\u0430\u0440\u0442\u043e\u0444\u0435\u043b\u044c \u0444\u0440\u0438 100 \u0433\u0440.",
+          "label_text": "\u0425\u0418\u0422",
+          "label_color": "e95e0d",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 465
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "name": "N2",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/77\/set2.png",
+          "desc": "\u041f\u0438\u0446\u0446\u0430 \"\u0427\u0435\u0441\u043d\u043e\u0447\u043d\u044b\u0439  \u0446\u044b\u043f\u043b\u0435\u043d\u043e\u043a\", \u0433\u0430\u043c\u0431\u0443\u0440\u0433\u0435\u0440 200\u0433\u0440, \u043a\u0430\u0440\u0442\u043e\u0444\u0435\u043b\u044c \"\u0410\u0439\u0434\u0430\u0445\u043e\" 100\u0433\u0440, \u043a\u043e\u043b\u0430 0,5\u043b.",
+          "label_text": "\u0425\u0418\u0422",
+          "label_color": "e95e0d",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 659
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "name": "N3",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/78\/set3.png",
+          "desc": " \u041f\u0438\u0446\u0446 \" \u043c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f\" 30\u0441\u043c, \u0447\u0435\u0441\u043d\u043e\u0447\u043d\u044b\u0435 \u0433\u0440\u0435\u043d\u043a\u0438 150\u0433\u0440, 2 \u043b\u044e\u0431\u044b\u0445 \u043d\u0430\u043f\u0438\u0442\u043a\u0430 \u043d\u0430 \u0432\u044b\u0431\u043e\u0440.",
+          "label_text": "\u0425\u0418\u0422",
+          "label_color": "e95e0d",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 749
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gr_name": "\u041f\u0430\u0441\u0442\u0430",
+      "products": [
+        {
+          "id": 110,
+          "name": "\u041a\u0430\u0440\u0431\u043e\u043d\u0430\u0440\u0430",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/110\/1.png",
+          "desc": "\u0411\u0435\u043a\u043e\u043d, \u0441\u043f\u0430\u0433\u0435\u0442\u0442\u0438, \u0441\u043b\u0438\u0432\u043a\u0438, \u043f\u0430\u0440\u043c\u0435\u0437\u0430\u043d, \u043b\u0443\u043a.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 190
+            }
+          ]
+        },
+        {
+          "id": 111,
+          "name": "\u0427\u0438\u043a\u0435\u043d \u0410\u043b\u044c\u0444\u0440\u0435\u0434\u043e",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/111\/nj40hz-pju4-240x240-dd8.png",
+          "desc": "\u0421\u043f\u0430\u0433\u0435\u0442\u0442\u0438 \u0441 \u0446\u044b\u043f\u043b\u0435\u043d\u043a\u043e\u043c \u0432 \u0441\u043b\u0438\u0432\u043e\u0447\u043d\u043e\u043c \u0441\u043e\u0443\u0441\u0435 \u0438 \u0437\u0435\u043b\u0435\u043d\u044c\u044e.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 190
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "name": "\u0411\u043e\u043b\u043e\u043d\u044c\u0435\u0437\u0435",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/112\/1404175308-boloneze.png",
+          "desc": "C\u043f\u0430\u0433\u0435\u0442\u0442\u0438,\u0441\u044b\u0440 \"\u041f\u0430\u0440\u043c\u0435\u0437\u0430\u043d\",\u0441\u043e\u0443\u0441 \u0411\u043e\u043b\u043e\u043d\u044c\u0435\u0437\u0435, \u0442\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u0441\u043e\u0443\u0441.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 190
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gr_name": "\u0411\u0443\u0440\u0433\u0435\u0440\u044b \u0438 \u0440\u043e\u043b\u043b\u044b",
+      "products": [
+        {
+          "id": 114,
+          "name": "\u0411\u0438\u0444 \u0431\u0443\u0440\u0433\u0435\u0440",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/114\/burger-240x240-dd8.png",
+          "desc": "\u0412\u043a\u0443\u0441\u043d\u0435\u0439\u0448\u0438\u0439 \u0431\u0443\u0440\u0433\u0435\u0440 \u0441 \u043a\u043e\u0442\u043b\u0435\u0442\u043e\u0439 \u0438\u0437 \u0433\u043e\u0432\u044f\u0434\u0438\u043d\u044b \u0438 \u043e\u0432\u043e\u0449\u0430\u043c\u0438.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 190
+            }
+          ]
+        },
+        {
+          "id": 115,
+          "name": "\u0427\u0438\u043a\u0435\u043d \u0431\u0443\u0440\u0433\u0435\u0440",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/115\/chiken-burger-240x240-dd8.png",
+          "desc": "\u0412\u043a\u0443\u0441\u043d\u0435\u0439\u0448\u0438\u0439 \u0431\u0443\u0440\u0433\u0435\u0440 \u0441 \u043a\u043e\u0442\u043b\u0435\u0442\u043e\u0439 \u0438\u0437 \u0446\u044b\u043f\u043b\u0435\u043d\u043a\u0430 \u0438 \u043e\u0432\u043e\u0449\u0430\u043c\u0438.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 190
+            }
+          ]
+        },
+        {
+          "id": 116,
+          "name": "\u0420\u043e\u043b\u043b \u0426\u0435\u0437\u0430\u0440\u044c",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/116\/resized-cezar-roll.png",
+          "desc": "\u0422\u043e\u0440\u0442\u0438\u043b\u044c\u044f, \u0441\u0430\u043b\u0430\u0442\u043d\u044b\u0439 \u043b\u0438\u0441\u0442,\u0446\u044b\u043f\u043b\u0435\u043d\u043e\u043a, \u0442\u043e\u043c\u0430\u0442,\u0441\u044b\u0440, \u0441\u043e\u0443\u0441",
+          "label_text": "\u041d\u043e\u0432\u0438\u043d\u043a\u0430",
+          "label_color": "db1f1f",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 149
+            }
+          ]
+        },
+        {
+          "id": 117,
+          "name": "\u0420\u043e\u043b\u043b \u041a\u0430\u043f\u0440\u0438\u0437",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/117\/resized-kapriz.png",
+          "desc": "\u0422\u043e\u0440\u0442\u0438\u043b\u044c\u044f,\u043e\u0433\u0443\u0440\u0435\u0446,\u0432\u0435\u0442\u0447\u0438\u043d\u0430,\u0433\u0440\u0438\u0431\u044b,\r\n\u0446\u044b\u043f\u043b\u0435\u043d\u043e\u043a,\u0441\u044b\u0440,\u0441\u043e\u0443\u0441",
+          "label_text": "\u041d\u043e\u0432\u0438\u043d\u043a\u0430",
+          "label_color": "db1f1f",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 149
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "name": "\u0424\u0440\u0435\u0448 \u0440\u043e\u043b\u043b",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/118\/resized-fresh-roll.png",
+          "desc": "\u0422o\u0440\u0442\u0438\u043b\u044c\u044f, \u043b\u0438\u0441\u0442 \u0441\u0430\u043b\u0430\u0442\u0430,\u0442\u043e\u043c\u0430\u0442,\u043e\u0433\u0443\u0440\u0435\u0446,\u0441\u043e\u0443\u0441",
+          "label_text": "\u041d\u043e\u0432\u0438\u043d\u043a\u0430",
+          "label_color": "db1f1f",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 119
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "name": "\u0411\u0438\u0444\u0444 \u0440\u043e\u043b\u043b",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/119\/resized-bif-roll.png",
+          "desc": "\u0422\u043e\u0440\u0442\u0438\u043b\u044c\u044f, \u043b\u0438\u0441\u0442 \u0441\u0430\u043b\u0430\u0442\u0430, \u0433\u043e\u0432\u044f\u0434\u0438\u043d\u0430,\u0442\u043e\u043c\u0430\u0442,\u043e\u0433\u0443\u0440\u0435\u0446,\u0441\u043e\u0443\u0441",
+          "label_text": "\u041d\u043e\u0432\u0438\u043d\u043a\u0430",
+          "label_color": "db1f1f",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 159
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "name": "\u0427\u0438\u043a\u0435\u043d \u0440\u043e\u043b\u043b",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/120\/resized-bif-roll.png",
+          "desc": "\u0422\u043e\u0440\u0442\u0438\u043b\u044c\u044f, \u043b\u0438\u0441\u0442 \u0441\u0430\u043b\u0430\u0442\u0430,\u0446\u044b\u043f\u043b\u0435\u043d\u043e\u043a,\u0442\u043e\u043c\u0430\u0442,\u043e\u0433\u0443\u0440\u0435\u0446,\u0441\u043e\u0443\u0441",
+          "label_text": "\u041d\u043e\u0432\u0438\u043d\u043a\u0430",
+          "label_color": "db1f1f",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 149
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gr_name": "\u0417\u0430\u043a\u0443\u0441\u043a\u0438",
+      "products": [
+        {
+          "id": 122,
+          "name": "\u0426\u0435\u0437\u0430\u0440\u044c",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/122\/y6daaz8bg6s-300x240-f3c.png",
+          "desc": "\u0421\u043e\u0441\u0442\u0430\u0432: \u043b\u0438\u0441\u0442\u044c\u044f \u0441\u0430\u043b\u0430\u0442\u0430, \u0442\u043e\u043c\u0430\u0442\u044b, \u0441\u0443\u0445\u0430\u0440\u0438\u043a\u0438, \u0446\u044b\u043f\u043b\u0435\u043d\u043e\u043a, \u0441\u043e\u0443\u0441 \u0446\u0435\u0437\u0430\u0440\u044c.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 250
+            }
+          ]
+        },
+        {
+          "id": 123,
+          "name": "\u0413\u0440\u0435\u0447\u0435\u0441\u043a\u0438\u0439",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/123\/pdcl86d8adg-240x240-dd8.png",
+          "desc": "\u0421\u043e\u0441\u0442\u0430\u0432: \u0441\u044b\u0440 \u0444\u0435\u0442\u0430, \u043c\u0430\u0441\u043b\u0438\u043d\u044b, \u043b\u0438\u0441\u0442\u044c\u044f \u0441\u0430\u043b\u0430\u0442\u0430, \u0442\u043e\u043c\u0430\u0442\u044b, \u043e\u0433\u0443\u0440\u0446\u044b, \u0441\u043e\u0443\u0441.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 220
+            }
+          ]
+        },
+        {
+          "id": 124,
+          "name": "\u041a\u0430\u0440\u0442\u043e\u0444\u0435\u043b\u044c \u0444\u0440\u0438",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/124\/fry.png",
+          "desc": "\u0421\u043e\u0441\u0442\u0430\u0432: \u0441\u044b\u0440 \u0444\u0435\u0442\u0430, \u043c\u0430\u0441\u043b\u0438\u043d\u044b, \u043b\u0438\u0441\u0442\u044c\u044f \u0441\u0430\u043b\u0430\u0442\u0430, \u0442\u043e\u043c\u0430\u0442\u044b, \u043e\u0433\u0443\u0440\u0446\u044b, \u0441\u043e\u0443\u0441.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "100 \u0433\u0440",
+              "price": "55"
+            },
+            {
+              "article": "",
+              "size": "200 \u0433\u0440",
+              "price": "100"
+            }
+          ]
+        },
+        {
+          "id": 125,
+          "name": "\u0413\u0440\u0435\u043d\u043a\u0438 \u0421\u044b\u0440\u043d\u044b\u0435",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/125\/grenki.png",
+          "desc": "\u0424\u043e\u043a\u0430\u0447\u0447\u0430, \u0447\u0435\u0441\u043d\u043e\u043a, \u043c\u0430\u0441\u043b\u043e \u0440\u0430\u0441\u0442, \u0441\u043e\u043b\u044c.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "150 \u0433\u0440",
+              "price": "100"
+            }
+          ]
+        },
+        {
+          "id": 126,
+          "name": "\u0413\u0440\u0435\u043d\u043a\u0438 \u0427\u0435\u0441\u043d\u043e\u0447\u043d\u044b\u0435",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/126\/chesgrenki.png",
+          "desc": "\u0445\u043b\u0435\u0431\u043d\u044b\u0435 \u0441\u0443\u0445\u0430\u0440\u0438, \u043e\u0431\u0436\u0430\u0440\u0435\u043d\u043d\u044b\u0435 \u0432\u043e \u0444\u0440\u0438\u0442\u044e\u0440\u0435 \u0441 \u0447\u0435\u0441\u043d\u043e\u043a\u043e\u043c.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "150 \u0433\u0440",
+              "price": "100"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "name": "\u041a\u0430\u043f\u0440\u0438\u0437",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/127\/kaprise.png",
+          "desc": "\u041a\u0443\u0440\u0438\u043d\u0430\u044f \u0433\u0440\u0443\u0434\u043a\u0430, \u0432\u0435\u0442\u0447\u0438\u043d\u0430, \u0433\u0440\u0438\u0431\u044b, \u043a\u043e\u0440\u043d\u0438\u0448\u043e\u043d\u044b, \u0441\u044b\u0440 \u043c\u043e\u0446\u0430\u0440\u0435\u043b\u043b\u0430, \u0441\u043e\u0443\u0441.",
+          "label_text": "\u041d\u041e\u0412\u0418\u041d\u041a\u0410",
+          "label_color": "00FF66",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 250
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "name": "\u041a\u0430\u0440\u0442\u043e\u0444\u0435\u043b\u044c  \u0410\u0439\u0434\u0430\u0445\u043e",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/128\/aidaho.png",
+          "desc": "",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "100 \u0433\u0440",
+              "price": "55"
+            },
+            {
+              "article": "",
+              "size": "200 \u0433\u0440",
+              "price": "100"
+            }
+          ]
+        },
+        {
+          "id": 129,
+          "name": "\u041a\u0443\u0440\u043e\u0447\u043a\u0430 \u0432 \u0442\u0435\u043c\u043f\u0443\u0440\u0435",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/129\/hotchik.png",
+          "desc": "",
+          "label_text": "\u041d\u041e\u0412\u0418\u041d\u041a\u0410",
+          "label_color": "33FF66",
+          "size_price": [
+            {
+              "article": "",
+              "size": "200 \u0433\u0440",
+              "price": "200"
+            }
+          ]
+        },
+        {
+          "id": 130,
+          "name": "\u041d\u0430\u0433\u0433\u0435\u0442\u0441\u044b",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/130\/1418206714-1.jpg",
+          "desc": "\u0412\u043a\u0443\u0441\u043d\u044b\u0435 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0435 \u0445\u0440\u0443\u0441\u0442\u044f\u0449\u0438\u0435 \u043a\u0443\u0440\u0438\u043d\u044b\u0435 \u043d\u0430\u0433\u0433\u0435\u0442\u0441\u044b \u0438\u0437 \u043a\u0443\u0440\u0438\u043d\u043e\u0439 \u0433\u0440\u0443\u0434\u043a\u0438 \u0432 \u043f\u0430\u043d\u0438\u0440\u043e\u0432\u043a\u0435.",
+          "label_text": "\u041d\u041e\u0412\u0418\u041d\u041a\u0410",
+          "label_color": "33FF66",
+          "size_price": [
+            {
+              "article": "",
+              "size": "6 \u0448\u0442",
+              "price": "140"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gr_name": "\u0414\u0435\u0441\u0435\u0440\u0442\u044b",
+      "products": [
+        {
+          "id": 132,
+          "name": "\u041c\u0430\u043a\u0430\u0440\u0443\u043d",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/132\/makarun.png",
+          "desc": "\u041c\u0438\u043d\u0434\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0435\u0447\u0435\u043d\u044c\u0435 \u0441\u043e \u0441\u043b\u0430\u0434\u043a\u043e\u0439 \u043f\u0440\u043e\u0441\u043b\u043e\u0439\u043a\u043e\u0439.",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 60
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "name": "\u042d\u043d\u0447\u0438\u043b\u0430\u0434\u043e\u0441",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/133\/e913e3d6dc70.jpg",
+          "desc": "\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439 \u0434\u0435\u0441\u0435\u0440\u0442 \u0438\u0437 \u044f\u0431\u043b\u043e\u0447\u043d\u043e\u0433\u043e \u0432\u0430\u0440\u0435\u043d\u044c\u044f \u0441 \u0446\u0438\u0442\u0440\u0443\u0441\u043e\u043c, \u043e\u0431\u0436\u0430\u0440\u0435\u043d\u043d\u044b\u0439 \u0432\u043e  \u0444\u0440\u0438\u0442\u044e\u0440\u0435. ",
+          "label_text": "\u041d\u041e\u0412\u0418\u041d\u041a\u0410",
+          "label_color": "07FC34",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gr_name": "\u041d\u0430\u043f\u0438\u0442\u043a\u0438",
+      "products": [
+        {
+          "id": 135,
+          "name": "\u0427\u0430\u0439 Nestea",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/135\/nestea.png",
+          "desc": "",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 80
+            }
+          ]
+        },
+        {
+          "id": 136,
+          "name": "Coca-Cola",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/136\/coca-0.5-240x240-dd8.png",
+          "desc": "",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": "",
+              "size": "0.5 \u043b",
+              "price": "75"
+            },
+            {
+              "article": "",
+              "size": "1 \u043b",
+              "price": "95"
+            }
+          ]
+        },
+        {
+          "id": 140,
+          "name": "Burn",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/140\/burn-product-image.png",
+          "desc": "0.33",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 100
+            }
+          ]
+        },
+        {
+          "id": 138,
+          "name": "\u0421\u043e\u043a \u0414\u043e\u0431\u0440\u044b\u0439",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/138\/dobriy-240x240-dd8.png",
+          "desc": "",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 120
+            }
+          ]
+        },
+        {
+          "id": 139,
+          "name": "\u0410\u043a\u0432\u0430 \u043c\u0438\u043d\u0435\u0440\u0430\u043b\u0435 0,6 \u043b.",
+          "img_url": "http:\/\/amopizza.ru\/assets\/images\/products\/139\/aqua-minerale-240x240-dd8.png",
+          "desc": "\u0412\u043e\u0434\u0430 \u043d\u0435\u0433\u0430\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f",
+          "label_text": "",
+          "label_color": "",
+          "size_price": [
+            {
+              "article": null,
+              "size": null,
+              "price": 60
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

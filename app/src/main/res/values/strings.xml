@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_pizza">Пицца</string>
+    <string name="menu_combo">Комбо</string>
+    <string name="menu_pasta">Паста</string>
+    <string name="menu_burgers_and_rolls">Бургеры и роллы</string>
+    <string name="menu_snacks">Закуски</string>
+    <string name="menu_desserts">Десерты</string>
+    <string name="menu_drinks">Напитки</string>
+</resources>
