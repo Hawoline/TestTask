@@ -1,10 +1,12 @@
 package ru.hawoline.testtask;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
+import android.util.Log;
 import android.view.View;
 
 import androidx.navigation.NavController;
@@ -20,50 +22,95 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
 import android.view.Menu;
+import android.widget.Button;
+
+import ru.hawoline.testtask.ui.ProductsActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    private AppBarConfiguration mAppBarConfiguration;
+    Button pizzaButton;
+    Button comboButton;
+    Button pastaButton;
+    Button burgersAndRollsButton;
+    Button snacksButton;
+    Button dessertsButton;
+    Button drinksButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toolbar toolbar = findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
-        FloatingActionButton fab = findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
+
+        pizzaButton = findViewById(R.id.pizza_button);
+        comboButton = findViewById(R.id.combo_button);
+        pastaButton = findViewById(R.id.pasta_button);
+        burgersAndRollsButton = findViewById(R.id.burgers_and_rolls_button);
+        snacksButton = findViewById(R.id.snacks_button);
+        dessertsButton = findViewById(R.id.desserts_button);
+        drinksButton = findViewById(R.id.drinks_button);
+
+
+        pizzaButton.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), ProductsActivity.class);
+                intent.putExtra("PRODUCT_GROUP", 0);
+                startActivity(intent);
             }
         });
-        DrawerLayout drawer = findViewById(R.id.drawer_layout);
-        NavigationView navigationView = findViewById(R.id.nav_view);
-        // Passing each menu ID as a set of Ids because each
-        // menu should be considered as top level destinations.
-        mAppBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.nav_pizza, R.id.nav_combo, R.id.nav_pasta,
-                R.id.nav_burgers_and_rolls, R.id.nav_snacks, R.id.nav_desserts, R.id.nav_drinks)
-                .setDrawerLayout(drawer)
-                .build();
-        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
-        NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
-        NavigationUI.setupWithNavController(navigationView, navController);
-    }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.main, menu);
-        return true;
-    }
+        comboButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), ProductsActivity.class);
+                intent.putExtra("PRODUCT_GROUP", 1);
+                startActivity(intent);
+            }
+        });
 
-    @Override
-    public boolean onSupportNavigateUp() {
-        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
-        return NavigationUI.navigateUp(navController, mAppBarConfiguration)
-                || super.onSupportNavigateUp();
+        pastaButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), ProductsActivity.class);
+                intent.putExtra("PRODUCT_GROUP", 2);
+                startActivity(intent);
+            }
+        });
+
+        burgersAndRollsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), ProductsActivity.class);
+                intent.putExtra("PRODUCT_GROUP", 3);
+                startActivity(intent);
+            }
+        });
+
+        snacksButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), ProductsActivity.class);
+                intent.putExtra("PRODUCT_GROUP", 4);
+                startActivity(intent);
+            }
+        });
+
+        dessertsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), ProductsActivity.class);
+                intent.putExtra("PRODUCT_GROUP", 5);
+                startActivity(intent);
+            }
+        });
+
+        drinksButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), ProductsActivity.class);
+                intent.putExtra("PRODUCT_GROUP", 6);
+                startActivity(intent);
+            }
+        });
     }
 }
