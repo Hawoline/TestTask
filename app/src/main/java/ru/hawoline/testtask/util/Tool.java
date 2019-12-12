@@ -1,4 +1,4 @@
-package ru.hawoline.testtask.tool;
+package ru.hawoline.testtask.util;
 
 import android.content.Context;
 import android.util.Log;
